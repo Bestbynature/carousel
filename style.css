@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.slide {
+    width: 30%;
+    height: 60vh;
+    border: 2px solid red;
+    margin-right: 1rem;
+    padding: 0.5rem;
+}
+
+.slide img {
+    width: 100%;
+    height: 100%;
+}
+
